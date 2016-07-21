@@ -1,0 +1,6 @@
+{
+  "name": "Right Move Solutions",
+  "tagline": "Make the right move today!",
+  "body": "# rightmovesolutions.github.io\r\n\r\nYour core competency is writing code. Do that and leave the DevOps work to the experts. Make the right move today!\r\n\r\n\r\n**Right Move Solutions** has the experience and the expertise to keep your Dev Ops engine humming along.\r\n\r\n## Our services\r\n### Continuous Integration and Continuous Delivery with Jenkins\r\nWe will run and manage the Jenkins master and slaves. We will create the Jenkins jobs triggered by pull requests and pushed commits. Your team will have logins to make configuration changes to the jobs and to execute them. They will have role based permissions.\r\n\r\n### Continuous Deployment\r\nIf you have 100% automated testing, we can take your commits through the test environments all the way to production.\r\n\r\n### Monitoring with graphite and statsD\r\n### Search with Elastic Search\r\n### Log management with the ELK stack\r\n### Configuration Management with Chef\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
