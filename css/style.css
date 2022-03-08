@@ -166,6 +166,36 @@ h6 {
   margin-top: 60px;
 }
 
+#header .logo {
+  font-family: 'Open Sans';
+  font-size: 0;
+  letter-spacing: 0px;
+}
+
+#header .logo span {
+  margin: 0;
+  padding: 0;
+}
+
+#header .logo .blueLogoText {
+  color: #16c0f0;
+  font-size: 36px;
+}
+
+#header .logo .greenLogoText {
+  color: #4bd18e;
+  font-size: 36px;
+}
+
+#header .logo .cyanLogoText {
+  color: #f09116;
+  font-size: 36px;
+}
+  
+#header .logo .purpleLogoText {
+  color: #8a25b1;
+  font-size: 36px;
+}
 /*--------------------------------------------------------------
 # Intro Section
 --------------------------------------------------------------*/
@@ -250,7 +280,7 @@ h6 {
 .main-nav,
 .main-nav * {
   margin: 0;
-  padding: 0;
+  padding: 3px 0;
   list-style: none;
 }
 
@@ -264,7 +294,7 @@ h6 {
   display: block;
   position: relative;
   color: #004289;
-  padding: 20px 15px;
+  padding: 10px 15px;
   transition: 0.3s;
   font-size: 14px;
   font-family: "Montserrat", sans-serif;
