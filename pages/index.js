@@ -63,7 +63,7 @@ export default function Home() {
               <div className="col-lg-6 content order-lg-1 order-2">
                 <p>
                 RightMove Solutions believe in the upliftment of Communities through Mobile and Web apps.
-                Our products stand out in excellence, with affordable pricing. They are currently available in the following domains:
+                Our products stand out in excellence, with affordable pricing. Our core competencies are:
                 </p>
 
                 <div className="icon-box wow fadeInUp">
