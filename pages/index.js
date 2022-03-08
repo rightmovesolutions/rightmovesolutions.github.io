@@ -55,7 +55,7 @@ export default function Home() {
           <div className="container">
             <header className="section-header">
               <h3>About Us</h3>
-              <p> Proven expertise in delivering virtual community engagement solutions</p>
+              <p> Proven expertise in delivering faith and community engagement solutions</p>
             </header>
 
             <div className="row about-container">
@@ -63,7 +63,7 @@ export default function Home() {
               <div className="col-lg-6 content order-lg-1 order-2">
                 <p>
                 RightMove Solutions believe in the upliftment of Communities through Mobile and Web apps.
-                Our deliverables stand out in excellence, with affordable pricing.
+                Our products stand out in excellence, with affordable pricing. They are currently available in the following domains:
                 </p>
 
                 <div className="icon-box wow fadeInUp">
@@ -77,7 +77,7 @@ export default function Home() {
 
                 <div className="icon-box wow fadeInUp" data-wow-delay="0.2s">
                   <div className="icon"><i className="fa-solid fa-users"></i></div>
-                  <h4 className="title"><a href="">Virtual Community</a></h4>
+                  <h4 className="title"><a href="">Community engagement</a></h4>
                   <p className="description">
                     Apps that fulfill the comprehensive needs of a community - Announcements, Directory, Calendar, Donate, and Messaging.
                   </p>
@@ -144,7 +144,7 @@ export default function Home() {
                   <div className="icon"><i className="ion-ios-bookmarks-outline" style={{color: "#e9bf06"}}></i></div>
                   <h4 className="title"><a href="">Mobile Apps</a></h4>
                   <p className="description">
-                    RightMove Solutions deploy Apps to both App Store and Play Store and has thousands of downloads across the World.
+                    RightMove Solutions conceive, develop and deploy Apps to both App Store and Play Store and has thousands of downloads across the World.
                     Our cross platform Apps are elegant, functional, performant and have 4.5+ ratings.
                   </p>
                   <br/>
@@ -174,54 +174,12 @@ export default function Home() {
         </section>
         <section id="contact">
       <div className="container-fluid">
-
-        <div className="section-header">
-          <h3>Contact Us</h3>
-        </div>
-
         <div className="row wow fadeInUp justify-content-center">
-
-          <div className="col-lg-6">
-            <div className="row">
-              <div className="col-md-6 info">
-                <i className="ion-ios-location-outline"></i>
-                <p>10386 Somerset Ct, Cupertino, CA 950154</p>
-              </div>
-              <div className="col-md-6 info">
-                <i className="ion-ios-email-outline"></i>
-                <p>sam@rightmovesolutions.com</p>
-              </div>
-            </div>
-
-            <div className="form">
-              <div id="sendmessage">Your message has been sent. Thank you!</div>
-              <div id="errormessage"></div>
-              <form action="" method="post" role="form" className="contactForm">
-                <div className="form-row">
-                  <div className="form-group col-lg-6">
-                    <input type="text" name="name" className="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-                    <div className="validation"></div>
-                  </div>
-                  <div className="form-group col-lg-6">
-                    <input type="email" className="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
-                    <div className="validation"></div>
-                  </div>
-                </div>
-                <div className="form-group">
-                  <input type="text" className="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-                  <div className="validation"></div>
-                </div>
-                <div className="form-group">
-                  <textarea className="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-                  <div className="validation"></div>
-                </div>
-                <div className="text-center"><button type="submit" title="Send Message">Send Message</button></div>
-              </form>
-            </div>
-          </div>
-
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfKnGXepf_slnJq5Xh6K69GS918zxpEC5Cz3mNsQ4zkxh72vg/viewform?embedded=true"
+              width="640" height="709" frameborder="0" marginheight="0" marginwidth="0">
+              Loading…
+            </iframe>
         </div>
-
       </div>
     </section>
       </main>
@@ -233,7 +191,7 @@ export default function Home() {
               <div className="col-lg-6 col-md-6 footer-info">
                 <h3>RightMove Solutions</h3>
                 <p>
-                  Proven expertise in delivering virtual community engagement solutions
+                  Proven expertise in delivering faith and community engagement solutions
                 </p>
               </div>
 
